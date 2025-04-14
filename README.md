@@ -76,14 +76,14 @@ Contact Book is a contact management application built with **React** and **Redu
 
 1. **Clonează repository-ul:**
 
-   ```bash
+   
    git clone https://github.com/username/goit-neo-react-hw-module7.git
    cd goit-neo-react-hw-module7
 
 
 2. **Install Dependencies:**
 
-    ```bash
+    
    npm install
 
 
@@ -91,7 +91,7 @@ Contact Book is a contact management application built with **React** and **Redu
 
 1. **Run the App in Development Mode:**
 
-   ```bash
+   
    npm run dev
 
 
