@@ -164,9 +164,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 This project is licensed under the MIT License.
-
-    ```pgsql
-    Simply copy and paste the content above into a `README.md` file in your repository. You can customize sections (such as the live URL under Deploy) as needed.
+Simply copy and paste the content above into a `README.md` file in your repository. You can customize sections (such as the live URL under Deploy) as needed.
 
 
 
