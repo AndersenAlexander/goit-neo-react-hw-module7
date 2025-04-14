@@ -83,7 +83,7 @@ Contact Book is a contact management application built with **React** and **Redu
 
 2. **Install Dependencies:**
 
-    
+    ```bash
    npm install
 
 
@@ -91,7 +91,7 @@ Contact Book is a contact management application built with **React** and **Redu
 
 1. **Run the App in Development Mode:**
 
-   
+   ```bash
    npm run dev
 
 
@@ -124,12 +124,12 @@ Verify state updates using Redux DevTools.
 
     To build the application for production, run:
 
-    ```bash
+    
     npm run build
 
 Then preview the build with:                                                                                        
 
-    ```bash
+    
     npm run preview
 
 
