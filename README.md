@@ -33,7 +33,8 @@ Contact Book is a contact management application built with **React** and **Redu
 - **mockapi.io** (backend)
 
 ## Design
-![Screenshot 2025-04-12 223751](https://github.com/user-attachments/assets/e49d6a5d-b81d-44ae-b627-065e4de7cec4)
+
+![Screenshot 2025-04-12 223751](https://github.com/user-attachments/assets/f90948d0-da03-468b-b4ad-522ddbb47ea2)
 
 
 ## Project Structure
